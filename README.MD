@@ -7,4 +7,12 @@ INDICE PARA SE LOCALIZAR
 Strings e identificadores
 
 # index003 -> boxmodel
-boxsiz
+boxsizing
+
+# index004 -> gradiente
+
+# index005 -> prática
+
+# index006 -> pseudo class e pseudo elemntos
+
+
